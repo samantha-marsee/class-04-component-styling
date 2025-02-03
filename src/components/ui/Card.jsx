@@ -1,4 +1,4 @@
-import Citation from "./Citation";
+import Citation from "../Citation";
 
 export default function Card() {
   return (
