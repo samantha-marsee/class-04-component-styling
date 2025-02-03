@@ -1,6 +1,6 @@
 import Card from './ui/Card'
 
-function Gallery() {
+export default function Gallery() {
   return (
     <div>
       <Card />

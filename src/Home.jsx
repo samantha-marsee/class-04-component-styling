@@ -1,6 +1,7 @@
 import Gallery from './components/Gallery'
 
 export default function Home() {
+  return(
   <main>
     <Gallery>
 
@@ -8,4 +9,5 @@ export default function Home() {
       <p>{new Date().toLocaleString()}</p>
       </Gallery>
   </main>
+  )
 }
