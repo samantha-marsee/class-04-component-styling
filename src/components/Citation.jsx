@@ -1,6 +1,6 @@
 export default function Citation() {
   return (
-    <p>
+    <p style = {{textAlign: "center"}}>
       Source: <cite>Microsoft Copilot</cite>
     </p>
   )
