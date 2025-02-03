@@ -1,0 +1,25 @@
+html {
+  font-family: sans-serif;
+}
+
+main {
+  padding: 1em;
+}
+
+h2 {
+  font-size: 18pt;
+  font-weight: semi-bold;
+}
+
+.card {
+  background-color: #e2e8f0;
+  border-radius: 12px;
+  max-width: 300px;
+  overflow: auto;
+}
+
+.card img {
+  max-width: 100%;
+  display: block;
+  object-fit: cover;
+}
